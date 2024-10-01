@@ -1,8 +1,9 @@
-## ✨  UN POCO DE MI ✨ 
+## ✨  UN POCO SOBRE MI ✨ 
 <ol>Soy Diseñador Gráfico</ol>
 <ol>Ilustrador</ol>
 <ol>Programador en Construción</ol>
 ✨<i>Realista e idealista</i>✨
+
 
 <!--
 **AnaTovar-Arg/AnaTovar-Arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
