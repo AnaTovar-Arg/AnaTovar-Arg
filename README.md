@@ -1,21 +1,14 @@
-## ✨  UN POCO SOBRE MI ✨ 
+## ✨UN POCO SOBRE MI✨ 
 <ol>Soy Diseñador Gráfico</ol>
 <ol>Ilustrador</ol>
 <ol>Programador en Construción</ol>
 ✨<i>Realista e idealista</i>✨
 
-
-<!--
-**AnaTovar-Arg/AnaTovar-Arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Entusiasta
+- 👯 Trabajo en equipo
+- 🤔 Siempre buscando respuestas
+- 💬 Preguntame sobre Diseño e Ilustraciòn y Atención al Cliente
+- 📫 Puedes encontrarme en Behance e Instagram
+- ⚡ Soy Divertida y ocurrente.
 -->
