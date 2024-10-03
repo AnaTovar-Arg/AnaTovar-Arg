@@ -4,7 +4,7 @@
 <ol>Programador en Construción</ol>
 ✨<i>Realista e idealista</i>✨
 
-Here are some ideas to get you started:
+
 - 🌱 Entusiasta
 - 👯 Trabajo en equipo
 - 🤔 Siempre buscando respuestas
